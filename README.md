@@ -1,16 +1,11 @@
 # 💫 About Me:
 Hi 👋 I'm Ibrahim<br><br>
-
 🚀 Full Stack Developer & Cybersecurity Enthusiast passionate about building secure applications and exploring ethical hacking.  
 💻 I work mainly on Kali Linux and enjoy researching vulnerabilities, automation scripts, and security tools.<br><br>
-
 🌐 As a Full Stack Developer, I build complete web applications from frontend interfaces to backend systems and databases, focusing on performance and security.<br><br>
-
 🤖 I develop Telegram bots for automation, security scanning, and useful utilities that help simplify tasks and improve workflows.  
 🕵️ Interested in OSINT (Open Source Intelligence) techniques for information gathering, digital investigations, and cybersecurity research.<br><br>
-
 📱 I also run a growing Instagram community where I share technology, cybersecurity knowledge, and learning content with my followers.<br><br>
-
 🚀 Currently focused on building cybersecurity tools, developing full-stack projects, improving my programming skills, and growing my GitHub with practical open-source projects.
 
 ## 🌐 Socials:
