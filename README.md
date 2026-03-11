@@ -240,7 +240,7 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logoColor=00FF41)](https://ibrahim-portfolio.pages.dev/)
 
-**[https://ibrahim-portfolio.pages.dev/](https://ibrahim-portfolio.pages.dev/)**
+**[Click Here](https://ibrahim-portfolio.pages.dev/)**
 
 </div>
 
