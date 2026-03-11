@@ -253,7 +253,7 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 └─$ echo "Thanks for visiting! Let's make the digital world safer together."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahim&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-dad&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%"/>
 
