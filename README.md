@@ -216,7 +216,7 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 ## 📈 Contribution Graph
 
-[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/ibrahim-dad)
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-dad&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/ibrahim-dad)
 
 <br>
 
