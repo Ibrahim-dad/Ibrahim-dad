@@ -1,37 +1,267 @@
-# 💫 About Me:
-Hi 👋 I'm Ibrahim<br><br>
+<div align="center">
 
-🚀 Full Stack Developer & Cybersecurity Enthusiast passionate about building secure applications and exploring ethical hacking.  
-💻 I work mainly on Kali Linux and enjoy researching vulnerabilities, automation scripts, and security tools.<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami+%E2%86%92+Ibrahim;Cybersecurity+Enthusiast+%7C+Full+Stack+Developer+%7C+OSINT+Researcher)](https://git.io/typing-svg)
 
-🌐 As a Full Stack Developer, I build complete web applications from frontend interfaces to backend systems and databases, focusing on performance and security.<br><br>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-🤖 I develop Telegram bots for automation, security scanning, and useful utilities that help simplify tasks and improve workflows.  
-🕵️ Interested in OSINT (Open Source Intelligence) techniques for information gathering, digital investigations, and cybersecurity research.<br><br>
+</div>
 
-📱 I also run a growing Instagram community where I share technology, cybersecurity knowledge, and learning content with my followers.<br><br>
-
-🚀 Currently focused on building cybersecurity tools, developing full-stack projects, improving my programming skills, and growing my GitHub with practical open-source projects.
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/afc-pola.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afc_pola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@afc_pola) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/afc_pola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahim-dad@proton.me) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) [![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)](#) [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibrahim-dad&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-dad&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-dad&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏅 GitHub Achievements
-
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-GitHub-blue?style=for-the-badge&logo=github)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-dad&theme=tokyonight&column=7)
-
-![YOLO](https://img.shields.io/badge/YOLO-Achievement-purple?style=for-the-badge&logo=github)
-![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-orange?style=for-the-badge&logo=github)
 ---
-[![](https://visitcount.itsvg.in/api?id=ibrahim-dad&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```bash
+┌──(ibrahim㉿kali)-[~]
+└─$ cat about_me.txt
+```
+
+> Cybersecurity Enthusiast | Full Stack Developer | OSINT Researcher | Telegram Bot Developer
+
+I'm **Ibrahim** — a passionate security researcher and full-stack developer who thrives at the intersection of **offensive security** and **modern web development**. I work extensively with **Kali Linux**, security tools, and automation scripts to identify vulnerabilities and build robust, secure systems.
+
+My mission is to make the digital world safer through **ethical hacking**, **vulnerability research**, and building **cybersecurity tools** that empower security professionals.
+
+- 🔒 Specializing in **penetration testing** and **vulnerability research**
+- 🌐 Building **full-stack web applications** with a security-first mindset
+- 🕵️ Conducting **OSINT investigations** and developing intelligence-gathering tools
+- 🤖 Creating **Telegram bots** for security automation and monitoring
+- 🐧 Daily driving **Kali Linux** as my primary operating system
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FF41)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FF41)
+
+### DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF41)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF41)
+
+<br>
+
+## 🔐 Cybersecurity Tools
+
+```bash
+┌──(ibrahim㉿kali)-[~/arsenal]
+└─$ ls -la tools/
+```
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
+![Tor](https://img.shields.io/badge/TOR-0D1117?style=for-the-badge&logo=torproject&logoColor=00FF41)
+
+<br>
+
+## 🕵️ OSINT Interests
+
+```bash
+┌──(ibrahim㉿kali)-[~/osint]
+└─$ echo "Intelligence Gathering Domains"
+```
+
+<table>
+<tr>
+<td>
+
+🔎 **Reconnaissance & Footprinting**
+- Domain & subdomain enumeration
+- DNS intelligence gathering
+- Email harvesting & verification
+
+</td>
+<td>
+
+🌐 **Social Media Intelligence**
+- Profile correlation & analysis
+- Digital footprint mapping
+- Behavioral pattern recognition
+
+</td>
+</tr>
+<tr>
+<td>
+
+📡 **Network Intelligence**
+- IP geolocation & tracking
+- Network topology mapping
+- Infrastructure analysis
+
+</td>
+<td>
+
+📊 **Data Aggregation**
+- Public records analysis
+- Breach data correlation
+- Threat intelligence feeds
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🤖 Telegram Bot Development
+
+```bash
+┌──(ibrahim㉿kali)-[~/bots]
+└─$ python3 bot_manager.py --status
+```
+
+I build **Telegram bots** for security automation, monitoring, and productivity:
+
+- 🛡️ **Security Scanner Bots** — Automated vulnerability scanning and reporting via Telegram
+- 📊 **Monitoring Bots** — Real-time system and network monitoring alerts
+- 🔍 **OSINT Bots** — Intelligence gathering and reconnaissance automation
+- ⚙️ **Utility Bots** — Task automation, file management, and notification systems
+
+![Python Telegram Bot](https://img.shields.io/badge/python--telegram--bot-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41)
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 👻 Ghost Network Mapper
+<p>Advanced network discovery and mapping tool built for stealth reconnaissance. Performs silent network enumeration with minimal footprint detection.</p>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00FF41)
+
+</td>
+<td width="50%">
+
+### 🛡️ Sentinel Script
+<p>File Integrity Monitor that detects unauthorized changes to critical system files. Real-time monitoring with alerting capabilities for incident response.</p>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 Telegram Vulnerability Scanner Bot
+<p>A Telegram bot that automates vulnerability scanning and delivers real-time security reports directly to your chat. Integrates with multiple scanning engines.</p>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00FF41)
+
+</td>
+<td width="50%">
+
+### 🕵️ OSINT Toolkit
+<p>Comprehensive open-source intelligence toolkit for digital investigations. Aggregates data from multiple public sources for reconnaissance and analysis.</p>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahim&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&ring_color=00FF41" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim&theme=chartreuse-dark&background=0D1117&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=ibrahim&theme=matrix)
+
+</div>
+
+<br>
+
+## 📈 Contribution Graphhttps://ibrahim-portfolio.pages.dev/
+
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/ibrahim)
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/ibrahim)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=00FF41)](https://bsky.app/profile/ibrahim)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@ibrahim)
+[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=00FF41)](https://reddit.com/user/ibrahim)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ibrahim@example.com)
+
+</div>
+
+<br>
+
+## 🌍 Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logoColor=00FF41)](https://ibrahim-portfolio.pages.dev/)
+
+**[https://ibrahim-portfolio.pages.dev/](https://ibrahim-portfolio.pages.dev/)**
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──(ibrahim㉿kali)-[~]
+└─$ echo "Thanks for visiting! Let's make the digital world safer together."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%"/>
+
+</div>
