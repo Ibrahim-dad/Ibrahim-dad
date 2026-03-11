@@ -22,9 +22,12 @@ Hi 👋 I'm Ibrahim<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-dad&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-dad&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github.com/Ibrahim-dad?tab=achievements)
+## 🏅 GitHub Achievements
 
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-GitHub-blue?style=for-the-badge&logo=github)
+![YOLO](https://img.shields.io/badge/YOLO-Achievement-purple?style=for-the-badge&logo=github)
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=for-the-badge&logo=github)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-orange?style=for-the-badge&logo=github)
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahim-dad&icon=1&color=0)](https://visitcount.itsvg.in)
 
