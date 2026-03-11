@@ -211,17 +211,10 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=ibrahim&theme=matrix)
-
-</div>
 
 <br>
 
-## 📈 Contribution Graphhttps://ibrahim-portfolio.pages.dev/
+## 📈 Contribution Graph
 
 [![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/ibrahim)
 
@@ -231,11 +224,11 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/ibrahim)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=00FF41)](https://bsky.app/profile/ibrahim)
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@ibrahim)
-[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=00FF41)](https://reddit.com/user/ibrahim)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ibrahim@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/afc_pola)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=00FF41)](https://bsky.app/profile/afc-pola.bsky.social)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/afc_pola)
+[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=00FF41)](https://reddit.com/user/afc_pola)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ibrahim-dad@proton.me)
 
 </div>
 
